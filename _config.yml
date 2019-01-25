@@ -1,2 +1,6 @@
 remote_theme: ankitsultana/researcher@gem
+
+url                      : "https://kirseia.github.io"
+baseurl                  : ""
+
 # theme: jekyll-theme-cayman
