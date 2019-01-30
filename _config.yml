@@ -11,6 +11,7 @@ title_separator: " - "
 name: "Lian"
 description: "매일 배운 것을 기록하면 좋겠다"
 url: "https://github.com/kirseia"
+baseurl: ""
 
 # teaser: 
 # header:
