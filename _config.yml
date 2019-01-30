@@ -4,9 +4,13 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
+locale: "ko-KR"
+
 title: "이것저것 기술 블로그"
+title_separator: " - "
 name: "Lian"
 description: "매일 배운 것을 기록하면 좋겠다"
+url: "https://github.com/kirseia"
 
 # teaser: 
 # header:
