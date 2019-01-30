@@ -4,4 +4,12 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
-title: "M.I.L. - Monthly I Learned"
+title: "이것저것 기술 블로그"
+name: "Lian"
+description: "매일 배운 것을 기록하면 좋겠다"
+
+# teaser: 
+# header:
+# logo: 
+
+search: true
