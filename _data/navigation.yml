@@ -11,11 +11,12 @@ main:
 #     url: /collection-archive/
 
 sidebar-home:
-  - title: "태그"
-    layout: tags
   - title: "카테고리"
-    layout: categories
-
+    children:
+      - title: "iOS"
+        url: /categories/#ios
+      - title: "swift"
+        url: /categories/#swift
 
 # sidebar-sub:
 #   - title: "카테고리"
