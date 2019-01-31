@@ -299,6 +299,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _sidebars
+  - scope:
+      path: ""
+      type: sidebar-sub
+    values:
+      sidebar:
+        nav: "sidebar-sub"
       
 # remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 
