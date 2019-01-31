@@ -131,6 +131,18 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# Sidebar - https://mmistakes.github.io/minimal-mistakes/layout-sidebar-custom/
+sidebar:
+  title: "Sidebar Test Title"
+  nav: sidebar-sub
+sidebar-sub:
+  - title: ""
+  children:
+    - title: "카테고리"
+      url: /categories
+    - title: "태그"
+      url: /tags  
+
 # Site Footer
 footer:
   links:
