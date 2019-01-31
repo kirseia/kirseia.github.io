@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Lian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hanyoung. NOH"
-  location         : "S. Korea"
+  bio              : # ""
+  location         : # ""
   email            :
 #   links:
 #     - label: "카테고리"
