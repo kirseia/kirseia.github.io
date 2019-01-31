@@ -5,10 +5,10 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
-  - title: "페이지"
-    url: /page-archive/
-  - title: "컬렉션"
-    url: /collection-archive/
+#   - title: "페이지"
+#     url: /page-archive/
+#   - title: "컬렉션"
+#     url: /collection-archive/
 
 sidebar-home:
   - title: "태그"
