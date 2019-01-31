@@ -111,9 +111,9 @@ author:
   bio              : "Hanyoung. NOH"
   location         : "S. Korea"
   email            :
-  links:
-    - label: "카테고리"
-      url: /categories/
+#   links:
+#     - label: "카테고리"
+#       url: /categories/
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
 #       # url: mailto:your.name@email.com
@@ -135,8 +135,7 @@ author:
 
 # Sidebar - https://mmistakes.github.io/minimal-mistakes/layout-sidebar-custom/
 sidebar:
-  title: "Sidebar Test Title"
-  nav: sidebar-sub
+  nav: "sidebar-sub"
 
 # Site Footer
 footer:
