@@ -9,3 +9,11 @@ main:
     url: /page-archive/
   - title: "Collections"
     url: /collection-archive/
+    
+sidebar-sub:
+  - title: ""
+  children:
+    - title: "카테고리"
+      url: /categories
+    - title: "태그"
+      url: /tags
