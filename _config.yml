@@ -135,7 +135,10 @@ author:
 
 # Sidebar - https://mmistakes.github.io/minimal-mistakes/layout-sidebar-custom/
 sidebar:
-  nav: "sidebar-sub"
+  - title: "sidebar Title" 
+    text: "Some text .. sidebar"
+  - title: "sidesub"
+    nav: "sidebar-sub"
 
 # Site Footer
 footer:
