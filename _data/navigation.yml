@@ -11,7 +11,7 @@ main:
     url: /collection-archive/
     
 sidebar-sub:
-  - title: ""
+  - title: " "
   children:
     - title: "카테고리"
       url: /categories
