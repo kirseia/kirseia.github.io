@@ -9,9 +9,16 @@ main:
     url: /page-archive/
   - title: "컬렉션"
     url: /collection-archive/
-    
-sidebar-sub:
-  - title: "카테고리"
-    url: /categories/
+
+sidebar-home:
   - title: "태그"
-    url: /tags/
+    layout: tags
+  - title: "카테고리"
+    layout: categories
+
+
+# sidebar-sub:
+#   - title: "카테고리"
+#     url: /categories/
+#   - title: "태그"
+#     url: /tags/
