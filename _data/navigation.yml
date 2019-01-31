@@ -12,8 +12,8 @@ main:
     
 sidebar-sub:
   - title: "-"
-  children:
+    children:
     - title: "카테고리"
-      url: /categories
+      url: /categories/
     - title: "태그"
-      url: /tags
+      url: /tags/
