@@ -133,13 +133,6 @@ author:
 #       icon: "fab fa-fw fa-instagram"
 #       # url: "https://instagram.com/"
 
-# Sidebar - https://mmistakes.github.io/minimal-mistakes/layout-sidebar-custom/
-sidebar:
-  - title: "sidebar Title" 
-    text: "Some text .. sidebar"
-  - title: "sidesub"
-    nav: "sidebar-sub"
-
 # Site Footer
 footer:
   links:
@@ -302,44 +295,3 @@ defaults:
       comments: true
       share: true
       related: true
-  # _sidebars
-  - scope:
-      path: ""
-      type: sidebar-sub
-    values:
-      sidebar:
-        nav: "sidebar-sub"
-      
-# remote_theme: "mmistakes/minimal-mistakes@4.15.1"
-
-# plugins:
-#   - jekyll-include-cache
-
-# minimal_mistakes_skin: "dirt"
-# locale: "ko-KR"
-
-# title: "이것저것 기술 블로그"
-# title_separator: "-"
-# name: "Lian"
-# description: "매일 배운 것을 기록하면 좋겠다"
-# url: "https://kirseia.github.io"
-# baseurl: ""
-
-# # teaser: 
-# # header:
-# # logo: 
-
-# search: true
-
-# defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: true
-#       share: true
-#       related: true
