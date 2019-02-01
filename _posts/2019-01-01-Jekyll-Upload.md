@@ -69,8 +69,8 @@ published: true
 - GitHub Pro / Team / Enterprise 는 private repository 도 github page 가능 (github pro 는 월 7달러!)
 
 ### hexo vs jekyll
-    - https://qvil.github.io/blog/why-jekyll/
-    - https://stackshare.io/stackups/hexo-vs-jekyll
+- https://qvil.github.io/blog/why-jekyll/
+- https://stackshare.io/stackups/hexo-vs-jekyll
 
 ### Ref.
 - 공식 사이트
