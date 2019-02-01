@@ -25,12 +25,14 @@ published: true
 6) theme 는 [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 를 활용, _config.yml 을 설정한다.
 
 7) _config.yml은 https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml 을 복사해서 활용
+
     - remote_theme 를 활용 (theme 아니고)
     - title, locale, name, masthead_title 등등 필요한 것들을 세팅한다.
     - index.html / index.md 를 만든다 (https://github.com/mmistakes/minimal-mistakes/blob/master/index.html 참고)
     - _data/navigation.yml 을 만든다 (https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml 참고)
 
 ### 기능 확장하기
+
 1) 댓글 기능
     - [디스커스](https://www.google.com/search?q=disqus&oq=disqus&aqs=chrome..69i57j0j69i60l3j0.1373j0j7&sourceid=chrome&ie=UTF-8) 사이트 추가해서 short name 알아내고 _config.yml 에 comments 를 disqus 로 세팅하고 숏네임을 세팅하면 끝
 
