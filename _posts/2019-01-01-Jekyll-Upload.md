@@ -11,14 +11,20 @@ published: true
 ### 올려보자
 1) git repository 를 하나 만든다
     (git repository 를 만들때 **id.github.io로 만들면 id.github.io 로 접속이 가능**)
-1) 뭐라도 올린다 (readme.md 라던가)
-1) settings - GitHub Pages - Source - 뭐든 선택 (나는 master branch) - save
+
+2) 뭐라도 올린다 (readme.md 라던가)
+
+3) settings - GitHub Pages - Source - 뭐든 선택 (나는 master branch) - save
     - **(생성에 약 30분 정도 걸린다.)**
-1) settings - Github Pages - Theme Chooser 에서 Jekyll 테마를 고르면 된다.
-1) 사람들이 만들어놓은 Jekll 테마를 사용하려면 http://jekyllthemes.org/ 에서 가져온다.
+
+4) settings - Github Pages - Theme Chooser 에서 Jekyll 테마를 고르면 된다.
+
+5) 사람들이 만들어놓은 Jekll 테마를 사용하려면 http://jekyllthemes.org/ 에서 가져온다.
     - 본인 계정으로 git clone 하거나 / 다운받아서 repository 에 올리거나 ...
-1) theme 는 [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 를 활용, _config.yml 을 설정한다.
-1) _config.yml은 https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml 을 복사해서 활용
+
+6) theme 는 [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 를 활용, _config.yml 을 설정한다.
+
+7) _config.yml은 https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml 을 복사해서 활용
     - remote_theme 를 활용 (theme 아니고)
     - title, locale, name, masthead_title 등등 필요한 것들을 세팅한다.
     - index.html / index.md 를 만든다 (https://github.com/mmistakes/minimal-mistakes/blob/master/index.html 참고)
@@ -28,9 +34,10 @@ published: true
 1) 댓글 기능
     - [디스커스](https://www.google.com/search?q=disqus&oq=disqus&aqs=chrome..69i57j0j69i60l3j0.1373j0j7&sourceid=chrome&ie=UTF-8) 사이트 추가해서 short name 알아내고 _config.yml 에 comments 를 disqus 로 세팅하고 숏네임을 세팅하면 끝
 
-1) 상단 카테고리 / 태그 등 기능 페이지 만들기
+2) 상단 카테고리 / 태그 등 기능 페이지 만들기
     - _pages/category_archive.md , _pages/tag_archive.md 등을 역시 위에 참고한 주소에서 복사해서 붙여넣는다.
-1) 검색 기능 - _config.yml 에서 search: true 세팅한다
+
+3) 검색 기능 - _config.yml 에서 search: true 세팅한다
 
 ### 글 쓰기
 
