@@ -17,6 +17,8 @@ sidebar-home:
         url: /categories/#ios
       - title: "swift"
         url: /categories/#swift
+      - title: "기타"
+        url: /categories/#기타
 
 # sidebar-sub:
 #   - title: "카테고리"
